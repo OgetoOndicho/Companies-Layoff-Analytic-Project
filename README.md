@@ -1,4 +1,4 @@
-# World Companies: Employees Layoffs Analytics Project
+# World Companies: Employees Layoffs Analytics
 This Project is conducted by NBO_TECH by utilizing MySQL and Python, to gain deep insights into Employees Layoffs in companies across the Globe. The dataset comprises of fundamental data elements in which Data Analysts at NBO_TECH are tasked with so as to answer key business questions in regards to how Companies layoffs are  effected across the entire globe. 
 
 
