@@ -22,11 +22,11 @@ This Project is conducted by NBO_TECH by utilizing MySQL and Python, to gain dee
 - Use of queries to manipulate and standardize the dataset into a complete and consistent format using MySQL
 
 ## Part2: Exploratory Data Analysis
-- Cleaned data was then exported into a CSV file and then Imported into Python.
-- Use of Python codes to thoroughly investigate and explore data further to gain deeper insights so as to answer business questions
+- Cleaned data was then exported into a CSV file and then Imported using Python.
+- Used Python (JupyterNotebook) to thoroughly investigate and explore data further to gain deeper insights so as to answer business questions
 
 ** ALL STEPS TAKEN DURING DATA CLEANING IN MySQL and DATA ANALYSIS IN PYTHON ARE ALL DOCUMENTED IN THEIR SEPARATE FILES. KINDLY REFER FOR MORE CLARITY **
 
 # Tools Used
 1. MySQL: For cleaning and standardizing data
-2. Python: For complete exploratory data analysis.
+2. Python (JupyterNotebook): For complete exploratory data analysis.
